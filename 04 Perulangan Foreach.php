@@ -12,6 +12,8 @@ foreach($books as $buku){
     echo "<li>$buku</li>";
 }
 echo "</ul>";
-?>
 
 print_r("<p><strong>by :M Afriansyah");
+
+?>
+
